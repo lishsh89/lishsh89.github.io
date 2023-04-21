@@ -1,0 +1,25 @@
+h3 {
+    background-color: #607d8b;
+    color: #ffffff;
+  }
+
+p {
+    line-height: 150%;
+  }
+
+.p1{font-size: 200%}
+
+.p2{
+  text-align: center;
+  color: #aaa6a6;
+}
+
+.h4_indent{
+  text-indent: 1em;
+}
+
+.mid{
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
